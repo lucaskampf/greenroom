@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Greenroom</title>
+    <language>de</language>
+    <item>
+      <title>Greenroom 1.0.0</title>
+      <pubDate>Mon, 02 Nov 2026 06:35:03 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Erste öffentliche Version.</p>
+<ul>
+<li>Pomodoro-Zyklus mit Fokus, kurzer und langer Pause, Restzeit in der Menüleiste</li>
+<li>Grüner Pausen-Bildschirm auf allen Monitoren, mit sanftem Bildschirmschoner gegen Einbrennen</li>
+<li>Dashboard mit Tages-, Wochen- und Tageszeit-Auswertung, CSV-Export</li>
+<li>Automatische Update-Prüfung (einmal täglich, abschaltbar)</li>
+<li>Freiwillige Online-Rangliste: Heute und diese Woche, global oder in privaten Gruppen mit Einladungscode. Hochgeladen werden nur Nickname und pro Tag Fokusminuten und abgeschlossene Blöcke, nichts ohne deine Einwilligung. Konto und Online-Daten lassen sich jederzeit löschen.</li>
+<li>Fenster „Über Greenroom“ mit Support-Adresse, Impressum und Datenschutz; in den Einstellungen unter „Hilfe &amp; Rechtliches“</li>
+<li>Nach der Pause: „Schließen“ (Esc) lässt den Pause-vorbei-Bildschirm wirklich weg. Wer erinnert werden möchte, wählt in den Einstellungen „Erneut erinnern, wenn ich den Bildschirm schließe“ (alle 5, 10 oder 15 Min) oder auf dem Bildschirm einmalig „In 5 Min erinnern“</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/lucaskampf/greenroom/releases/download/v1.0.0/Greenroom-1.0.0.dmg" type="application/octet-stream"
+                 sparkle:edSignature="CKmYajhph1jl0asFEYeUJaQ6JP/atZLbIs1diG//To1UZeCvVb8A7My50yPlqV+DAJJSDmQb3QYa3kreo2R+AQ==" length="3564491" />
+    </item>
+  </channel>
+</rss>
