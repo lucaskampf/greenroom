@@ -4,6 +4,22 @@
     <title>Greenroom</title>
     <language>de</language>
     <item>
+      <title>Greenroom 1.0.3</title>
+      <pubDate>Mon, 02 Nov 2026 13:44:41 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>„Nicht stören“ viel einfacher: ein Schalter pro Modus, direkt in der Modus-Auswahl im Hauptfenster und in den Einstellungen. Beim ersten Einschalten fragt macOS zweimal nach „Hinzufügen“, danach läuft alles von selbst.</li>
+<li>Tiefenfokus schaltet „Nicht stören“ jetzt standardmäßig ein, Arbeitstag und Sprint lassen Mitteilungen an. Der frühere Hauptschalter entfällt.</li>
+<li>Eigene Kurzbefehle (z. B. für den Fokus „Arbeiten“) gibt es weiterhin, eingeklappt unter „Eigene Kurzbefehle (für Fortgeschrittene)“.</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/lucaskampf/greenroom/releases/download/v1.0.3/Greenroom-1.0.3.dmg" type="application/octet-stream"
+                 sparkle:edSignature="gA97AjfrPj+2STNNNlj3BZaHq/HOn+GUaXE9jNFu5jZhMjXZDjwbyIsM2lPkJIa5UE/w3izsN0v/VLf3qN1rDg==" length="4237674" />
+    </item>
+    <item>
       <title>Greenroom 1.0.2</title>
       <pubDate>Mon, 02 Nov 2026 11:51:48 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
