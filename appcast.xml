@@ -4,6 +4,26 @@
     <title>Greenroom</title>
     <language>de</language>
     <item>
+      <title>Greenroom 1.0.2</title>
+      <pubDate>Mon, 02 Nov 2026 11:51:48 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<ul>
+<li>Fokus-Modi: Arbeitstag (25/5), Tiefenfokus (50/10) und Sprint (15/3), jeweils mit eigenen Block- und Pausenlängen</li>
+<li>Modus im Hauptfenster wechseln: Ein Klick auf die Modus-Anzeige neben „Fokus starten“ zeigt alle drei Modi. Ohne laufenden Block gilt der Wechsel sofort, sonst ab dem nächsten Block.</li>
+<li>macOS-Fokus während der Blöcke: Greenroom schaltet z. B. „Nicht stören“ per Kurzbefehl ein und danach wieder aus. Für Tiefenfokus liegen fertige Kurzbefehle bei („Kurzbefehle installieren“), für die anderen Modi gibt es eine kurze Anleitung.</li>
+<li>Die Serie läuft nach einem Neustart der App weiter. Neu: „Serie zurücksetzen nach … ohne Fokus“ (30, 60, 90 Min oder nie)</li>
+<li>Dashboard: Zeiträume 7 und 30 Tage, Woche, Monat, Quartal, Jahr und Gesamt, mit Vergleich zum Vorzeitraum. Die Statistik lässt sich nach Modus filtern.</li>
+<li>Rangliste: zusätzlich Monat, Jahr und Gesamt. Beim Beitritt wird dein bisheriger Verlauf (bis 2 Jahre) einmalig nachgetragen.</li>
+<li>Deutlich weniger CPU-Last während der Pausen und bei offenem Hauptfenster</li>
+</ul>
+      ]]></description>
+      <enclosure url="https://github.com/lucaskampf/greenroom/releases/download/v1.0.2/Greenroom-1.0.2.dmg" type="application/octet-stream"
+                 sparkle:edSignature="Qmmzc2QHefeB4+ZMqTAYBM6Zh7qTgonO/9wtGXOlVLEWxNeVd2JytRvMekj1EePWs9BH7b7B3z/ek6fDNAQCDg==" length="4198714" />
+    </item>
+    <item>
       <title>Greenroom 1.0.1</title>
       <pubDate>Mon, 02 Nov 2026 10:06:43 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
